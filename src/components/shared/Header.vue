@@ -45,7 +45,7 @@
 <script>
 export default {
     data: () => ({
-      drawer: null
+      drawer: false
     }),
     props: {
       source: String

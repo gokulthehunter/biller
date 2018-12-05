@@ -1,0 +1,96 @@
+{
+    "user1":{
+        "info":{
+            "name":"abcd",
+            "email":"abcd@gmail.com",
+            "phone":1233457894
+        },
+        "2018":{
+            "basic":{
+                "maxamount":72000
+            },
+            "bills":{
+                "petrol":{
+                    "1":{
+                        "amount":100,
+                        "date":"12/09/2018",
+                        "invoice":"21545DD",
+                        "remarks":"remarks will come here",
+                        "supplier":"asan pumbs1"      
+                    },
+                    "2":{
+                        "amount": 100,
+                        "date": "12/10/2018",
+                        "invoice": "21545DD",
+                        "remarks": "remarks will come here",
+                        "supplier": "asan pumbs2"
+                    }
+                },
+                "books": {
+                    "1": {
+                        "amount": 150,
+                        "date": "20/10/2018",
+                        "invoice": "21545DD",
+                        "remarks": "remarks will come here",
+                        "supplier": "asan pumbs3"
+                    },
+                    "2": {
+                        "amount": 520,
+                        "date": "26/7/2018",
+                        "invoice": "21545DD",
+                        "remarks": "remarks will come here",
+                        "supplier": "asan pumbs4"
+                    }
+                },
+                "vehicle-repair": {
+                    "1": {
+                        "amount": 8502,
+                        "date": "30/10/2018",
+                        "invoice": "21FGD545DD",
+                        "remarks": "remarks will come here",
+                        "supplier": "asan pumbs5"
+                    },
+                    "2": {
+                        "amount": 15234,
+                        "date": "5/4/2018",
+                        "invoice": "21545DDSDF",
+                        "remarks": "remarks will come here",
+                        "supplier": "asan pumbs6"
+                    }
+                },
+                "telephone": {
+                    "1": {
+                        "amount": 8502,
+                        "date": "4/12/2018",
+                        "invoice": "78651DGF",
+                        "remarks": "remarks will come here",
+                        "supplier": "asan pumbs7"
+                    },
+                    "2": {
+                        "amount": 15234,
+                        "date": "12/4/2018",
+                        "invoice": "65465SFD22",
+                        "remarks": "remarks will come here",
+                        "supplier": "asan pumbs8"
+                    }
+                },
+                "uniform": {
+                    "1": {
+                        "amount": 1524,
+                        "date": "10/5/2018",
+                        "invoice": "78651DGF",
+                        "remarks": "remarks will come here",
+                        "supplier": "asan pumbs9"
+                    },
+                    "2": {
+                        "amount": 304,
+                        "date": "18/4/2018",
+                        "invoice": "65465SFD22",
+                        "remarks": "remarks will come here",
+                        "supplier": "asan pumbs10"
+                    }
+                }
+            }
+        }
+    }
+}

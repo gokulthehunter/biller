@@ -1,17 +1,16 @@
 <template>
   <div class="home">
+    <v-parallax src="https://cdn.vuetifyjs.com/images/parallax/material.jpg" height="400"></v-parallax>
+    <Datatables proptext="data table will load here"/>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-// import HelloWorld from '@/components/HelloWorld.vue'
-
-
+import Datatables from "@/components/Datatables";
 export default {
   name: 'home',
   components: {
-    // HelloWorld,
+    Datatables
   }
 }
 </script>
